@@ -80,9 +80,17 @@ Each phase documents:
 
 ## Evidence
 
-Screenshots and other evidence are included only where they provide meaningful proof of configuration or successful operation.
+The following evidence was captured during the lab setup:
 
-Sensitive information such as passwords, private keys, MAC addresses, machine identifiers, and unnecessary network details is excluded or sanitized.
+- [Ubuntu ISO integrity verification](./screenshots/ubuntu-iso-integrity.png)
+- [VM hardware configuration](./screenshots/vm-hardware-configuration.png)
+- [VMware Tools verification](./screenshots/vmware-tools-verified.png)
+- [APT repository configuration](./screenshots/apt-repositories.png)
+- [APT repository verification](./screenshots/apt-repositories2.png)
+- [Package update status](./screenshots/apt-update-before-upgrade.png)
+- [GitHub repository initialization](./screenshots/phase-00-github-repository-created.png.png)
+
+These screenshots provide evidence of the environment preparation and initial system configuration.
 
 ## Status
 
