@@ -97,7 +97,7 @@ These screenshots provide evidence of the environment preparation and initial sy
 | Phase | Status |
 |---|---|
 | 00 — Lab Foundation | ✅ Completed |
-| 01 — System Configuration | ⬜ Not started |
+| 01 — System Configuration | ✅ Completed|
 | 02 — Users & Permissions | ⬜ Not started |
 | 03 — Processes & Services | ⬜ Not started |
 | 04 — Storage | ⬜ Not started |
