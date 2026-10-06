@@ -368,4 +368,17 @@ Proper user, group, ownership, and permission management is a fundamental Linux 
 
 This lab demonstrates how access can be granted to authorized users through group membership while preventing unauthorized accounts from accessing protected resources.
 
+## Screenshots
+
+### User and Permission Verification
+
+![Users and Permissions Verification](screenshots/02-users-permissions-verification.png)
+
+### Permission and Ownership Verification
+
+![Permission and Ownership](screenshots/02-permission-ownership.png)
+
+### Special Permissions — Sticky Bit
+
+![Special Permissions](screenshots/02-special-permissions.png)
 These principles are directly applicable to Linux servers, security operations environments, application servers, and enterprise infrastructure.
