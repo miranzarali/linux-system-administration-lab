@@ -150,7 +150,7 @@ Permission denied
 
 This confirmed that access to the shared resource is controlled through the `linux-admins` group.
 
-![Shared resource access](screenshots/01-shared-resource-access.png)
+![Shared resource access](screenshots/02-users-permissions-verification%281%29.png)
 
 ---
 
@@ -178,7 +178,7 @@ drwxrws--- root linux-admins /srv/linux-admin-lab
 
 The `s` in the group permission position confirms that SGID is enabled.
 
-![Permissions and SGID verification](screenshots/02-permissions-and-sgid.png)
+![Permissions and SGID verification](screenshots/02-permission-ownership%281%29.png)
 
 ---
 
@@ -266,7 +266,7 @@ The operation failed with:
 Operation not permitted
 ```
 
-![Sticky bit access control](screenshots/03-sticky-bit-access-control.png)
+![Sticky bit access control](screenshots/02-special-permissions%281%29.png)
 
 ### Observation
 
