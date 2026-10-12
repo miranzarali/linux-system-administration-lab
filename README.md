@@ -107,22 +107,22 @@ The following screenshots demonstrate implementation and verification results fr
 - [Storage Usage Report](04-storage-management/screenshots/04-storage-usage-report.png)
 
 ### Linux Networking
-- [Network Diagnostic Report](05-linux-networking/screenshots/05-network-diagnostic-report.png)
+- [Network Diagnostic Report](05-linux-networking/Screenshots/05-network-diagnostic-report.png)
 
 ### Bash Administration Automation
-- [System Information Report](06-bash-automation/screenshots/06-system-info-report.png)
-- [Service Check](06-bash-automation/screenshots/06-service-check.png)
-- [User Creation Verification](06-bash-automation/screenshots/06-user-creation.png)
-- [Backup Creation](06-bash-automation/screenshots/06-backup-result.png)
+- [System Information Report](06-bash-automation/Screenshots/06-system-info-report.png)
+- [Service Check](06-bash-automation/Screenshots/06-service-check.png)
+- [User Creation Verification](06-bash-automation/Screenshots/06-user-creation.png)
+- [Backup Creation](06-bash-automation/Screenshots/06-backup-result.png)
 
 ### Scheduling and Maintenance
 - [Maintenance Report](07-scheduling-and-maintenance/screenshots/07-maintenance-report.png)
 - [Cron Configuration and Verification](07-scheduling-and-maintenance/screenshots/07-maintenance-cron-verification.png)
 
 ### Final Integration
-- [Administration Toolkit Menu](08-final-integration/screenshots/08-admin-toolkit-menu.png)
-- [Integrated System Information](08-final-integration/screenshots/08-admin-toolkit-system-info.png)
-- [Integrated Network Diagnostics](08-final-integration/screenshots/08-admin-toolkit-network-diagnostics.png)
+- [Administration Toolkit Menu](08-final-integration/Screenshots/08-admin-toolkit-menu.png)
+- [Integrated System Information](08-final-integration/Screenshots/08-admin-toolkit-system-info.png)
+- [Integrated Network Diagnostics](08-final-integration/Screenshots/08-admin-toolkit-network-diagnostics.png)
 
 These screenshots provide evidence of the environment preparation and initial system configuration.
 
