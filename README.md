@@ -81,14 +81,40 @@ Each phase documents:
 ## Evidence
 
 The following evidence was captured during the lab setup:
+## Project Evidence
 
-- [Ubuntu ISO integrity verification](./screenshots/ubuntu-iso-integrity.png)
-- [VM hardware configuration](./screenshots/vm-hardware-configuration.png)
-- [VMware Tools verification](./screenshots/vmware-tools-verified.png)
-- [APT repository configuration](./screenshots/apt-repositories.png)
-- [APT repository verification](./screenshots/apt-repositories2.png)
-- [Package update status](./screenshots/apt-update-before-upgrade.png)
-- [GitHub repository initialization](./screenshots/phase-00-github-repository-created.png.png)
+### Linux System Configuration
+- [Ubuntu System Configuration](../01-system-configuration/screenshots/)
+- [VMware Tools Verification](../01-system-configuration/screenshots/)
+
+### User and Permission Management
+- [User and Permission Verification](../02-user-and-permission-management/screenshots/02-users-permissions-verification.png)
+- [Special Permissions](../02-user-and-permission-management/screenshots/02-special-permissions.png)
+
+### Processes and Services
+- [Service Management](../03-processes-and-services/screenshots/03-service-management.png)
+- [Log Analysis](../03-processes-and-services/screenshots/03-log-analysis.png)
+
+### Storage Management
+- [Storage Usage Report](../04-storage-management/screenshots/04-storage-usage-report.png)
+
+### Linux Networking
+- [Network Diagnostic Report](../05-linux-networking/screenshots/05-network-diagnostic-report.png)
+
+### Bash Administration Automation
+- [System Information Report](../06-bash-automation/screenshots/06-system-info-report.png)
+- [Service Check](../06-bash-automation/screenshots/06-service-check.png)
+- [User Creation Verification](../06-bash-automation/screenshots/06-user-creation.png)
+- [Backup Creation](../06-bash-automation/screenshots/06-backup-result.png)
+
+### Scheduling and Maintenance
+- [Maintenance Report](../07-scheduling-and-maintenance/screenshots/07-maintenance-report.png)
+- [Cron Configuration and Verification](../07-scheduling-and-maintenance/screenshots/07-maintenance-cron-verification.png)
+
+### Final Integration
+- [Administration Toolkit Menu](../08-final-integration/screenshots/08-admin-toolkit-menu.png)
+- [Integrated System Information](../08-final-integration/screenshots/08-admin-toolkit-system-info.png)
+- [Integrated Network Diagnostics](../08-final-integration/screenshots/08-admin-toolkit-network-diagnostics.png)
 
 These screenshots provide evidence of the environment preparation and initial system configuration.
 
@@ -99,9 +125,9 @@ These screenshots provide evidence of the environment preparation and initial sy
 | 00 — Lab Foundation | ✅ Completed |
 | 01 — System Configuration | ✅ Completed |
 | 02 — Users & Permissions | ✅ Completed |
-| 03 — Processes & Services | ⬜ Not started |
-| 04 — Storage | ⬜ Not started |
-| 05 — Networking | ⬜ Not started |
-| 06 — Bash Automation | ⬜ Not started |
-| 07 — Scheduling & Maintenance | ⬜ Not started |
-| 08 — Final Toolkit | ⬜ Not started |
+| 03 — Processes & Services | ✅ Completed |
+| 04 — Storage | ✅ Completed |
+| 05 — Networking | ✅ Completed |
+| 06 — Bash Automation |✅ Completed |
+| 07 — Scheduling & Maintenance | ✅ Completed |
+| 08 — Final Toolkit | ✅ Completed |
