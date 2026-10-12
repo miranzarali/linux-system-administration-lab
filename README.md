@@ -81,40 +81,48 @@ Each phase documents:
 ## Evidence
 
 The following evidence was captured during the lab setup:
+
 ## Project Evidence
 
+The following screenshots demonstrate implementation and verification results from the project phases.
+
+### Lab Foundation
+- [VMware Tools Verification](00-lab-foundation/screenshots/vmware-tools-verified.png)
+- [VM Hardware Configuration](00-lab-foundation/screenshots/vm-hardware-configuration.png)
+
 ### Linux System Configuration
-- [Ubuntu System Configuration](../01-system-configuration/screenshots/)
-- [VMware Tools Verification](../01-system-configuration/screenshots/)
+- [System Configuration Verification](01-system-configuration/screenshots/01-phase-verification.png)
+- [Network Configuration](01-system-configuration/screenshots/01-network-configuration.png)
+- [APT Package Management](01-system-configuration/screenshots/01-apt-package-management.png)
 
 ### User and Permission Management
-- [User and Permission Verification](../02-user-and-permission-management/screenshots/02-users-permissions-verification.png)
-- [Special Permissions](../02-user-and-permission-management/screenshots/02-special-permissions.png)
+- [User and Permission Verification](02-user-and-permission-management/screenshots/02-users-permissions-verification.png)
+- [Special Permissions](02-user-and-permission-management/screenshots/02-special-permissions.png)
 
 ### Processes and Services
-- [Service Management](../03-processes-and-services/screenshots/03-service-management.png)
-- [Log Analysis](../03-processes-and-services/screenshots/03-log-analysis.png)
+- [Service Management](03-processes-and-services/screenshots/03-service-management.png)
+- [Log Analysis](03-processes-and-services/screenshots/03-log-analysis.png)
 
 ### Storage Management
-- [Storage Usage Report](../04-storage-management/screenshots/04-storage-usage-report.png)
+- [Storage Usage Report](04-storage-management/screenshots/04-storage-usage-report.png)
 
 ### Linux Networking
-- [Network Diagnostic Report](../05-linux-networking/screenshots/05-network-diagnostic-report.png)
+- [Network Diagnostic Report](05-linux-networking/screenshots/05-network-diagnostic-report.png)
 
 ### Bash Administration Automation
-- [System Information Report](../06-bash-automation/screenshots/06-system-info-report.png)
-- [Service Check](../06-bash-automation/screenshots/06-service-check.png)
-- [User Creation Verification](../06-bash-automation/screenshots/06-user-creation.png)
-- [Backup Creation](../06-bash-automation/screenshots/06-backup-result.png)
+- [System Information Report](06-bash-automation/screenshots/06-system-info-report.png)
+- [Service Check](06-bash-automation/screenshots/06-service-check.png)
+- [User Creation Verification](06-bash-automation/screenshots/06-user-creation.png)
+- [Backup Creation](06-bash-automation/screenshots/06-backup-result.png)
 
 ### Scheduling and Maintenance
-- [Maintenance Report](../07-scheduling-and-maintenance/screenshots/07-maintenance-report.png)
-- [Cron Configuration and Verification](../07-scheduling-and-maintenance/screenshots/07-maintenance-cron-verification.png)
+- [Maintenance Report](07-scheduling-and-maintenance/screenshots/07-maintenance-report.png)
+- [Cron Configuration and Verification](07-scheduling-and-maintenance/screenshots/07-maintenance-cron-verification.png)
 
 ### Final Integration
-- [Administration Toolkit Menu](../08-final-integration/screenshots/08-admin-toolkit-menu.png)
-- [Integrated System Information](../08-final-integration/screenshots/08-admin-toolkit-system-info.png)
-- [Integrated Network Diagnostics](../08-final-integration/screenshots/08-admin-toolkit-network-diagnostics.png)
+- [Administration Toolkit Menu](08-final-integration/screenshots/08-admin-toolkit-menu.png)
+- [Integrated System Information](08-final-integration/screenshots/08-admin-toolkit-system-info.png)
+- [Integrated Network Diagnostics](08-final-integration/screenshots/08-admin-toolkit-network-diagnostics.png)
 
 These screenshots provide evidence of the environment preparation and initial system configuration.
 
